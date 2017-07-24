@@ -1,0 +1,2 @@
+使用Html内容时，IOS与android表现不一致，android无法自动刷新
+
